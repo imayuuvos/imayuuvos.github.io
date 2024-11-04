@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imayuuvos.github.io/AfP/sitemap_index.txt
+Sitemap: https://imayuuvos.github.io/HSi/sitemap_index.txt
+Sitemap: https://imayuuvos.github.io/mDK/sitemap_index.txt
+Sitemap: https://imayuuvos.github.io/qRv/sitemap_index.txt
